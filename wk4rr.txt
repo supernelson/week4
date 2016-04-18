@@ -1,0 +1,41 @@
+1. Variable is an object which stores information. A programmer may want to modified that information or use it at a later point.
+
+2. Ruby will run “first_name” then concatenate it with “last_name”. Then it stores the string “Abraham Lincoln” to “full_name”.
+
+3. A string is notated between “ “. It is typically words.
+Integer is a number without decimals.
+Float is a number with decimals. 
+Nil is nothing. It’s an empty placeholder.
+Boolean is a true or false statement.
+
+4. An Algorithm is a set of instructions.  
+
+5. Sorting algorithms and Matching Algorithms.
+
+6. Methods are an encapsulated set of instructions that returns a value. A method is useful for more complex needs.
+
+7. Return Value: when a method is run this is the result that gets spit back out to the user.
+
+Side Effect - when you change one part of an expression which alters something in the outside or the calling function.
+
+Parameter - a value that a method uses to define variables to be inserted. 
+
+Argument - these are the actual values inserted when a method is called.
+
+Implicit Return - will continue through to the end of the code whereas an explicit return will stop (e.g. return).
+
+8. Global Scope means the information within that method are accessible from anywhere. Method scope means the information living within it can only be called within that method.
+
+9. Control flow is a way of directing traffic, like a decision tree. 
+
+10. loop - take some code and has it go around and around and around, usually changing a variable.
+
+if - paired with elsif & else to create a decision tree.
+
+else - the “ending” part of the if statement which is the final option.
+
+elsif - in an if/else statement sometimes it makes sense to have more than two branches so the elsif is to add more decisions.
+
+while - this is a loop that goes for as long as a condition is met.
+
+until - also a loop that goes up till a condition is met.
